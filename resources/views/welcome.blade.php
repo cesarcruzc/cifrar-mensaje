@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>Criptografía y mecanismos de seguridad</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
@@ -46,7 +46,16 @@
             }
 
             .title {
-                font-size: 84px;
+                font-size: 64px;
+            }
+
+            .sub-title {
+                font-size: 33px;
+            }
+
+            .sub-title-small
+            {
+                font-size: 23px;
             }
 
             .links > a {
@@ -79,16 +88,22 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Fundación Universitaria del Área Andina
+                </div>
+
+                <div class="sub-title m-b-md">
+                    Facultad Ingeniería y Ciencias Básicas
+                </div>
+
+                <div class="sub-title-small text-center m-b-md">
+                    Aplicación criptográfica utilizando algoritmos clásicos de cifrado
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Documentation</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="#">Jorge Andrés Ricardo Viloria</a>
+                    <a href="#">César Camilo Cruz Cáceres</a>
                 </div>
+
             </div>
         </div>
     </body>
